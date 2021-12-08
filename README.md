@@ -1,6 +1,6 @@
 # 🇧🇷 Language Detector 🇬🇧
 
-A python language detector
+A language detector made with Python
 
 ## ℹ️ About the project
 
